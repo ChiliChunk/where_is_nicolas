@@ -3,7 +3,28 @@ body{
 }
 
 .topic-img{
-    max-width: 100px;
-    max-height: 100px;
+    position: absolute;
+    max-width: 200px;
+    max-height: 200px;
     cursor: pointer;
+}
+
+.skills {
+    left: 50vw;
+    top: 30vh;
+}
+
+.foular {
+    left: 10vw;
+    top: 40vh;
+}
+
+.diplome {
+    left : 80vw;
+    top : 80vh;
+}
+
+.cahier {
+    left : 10vw;
+    top : 5vh;
 }

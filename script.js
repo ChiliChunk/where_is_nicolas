@@ -23,6 +23,9 @@ const strings = {
 
 }
 
+window.onload = setImgPosition;
+
+
 function setModalText(key) {
     document.getElementById('mainModalLabel').innerHTML = strings[key].title;
     document.getElementById('modal-content').innerHTML = strings[key].content;
