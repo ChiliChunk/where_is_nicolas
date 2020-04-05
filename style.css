@@ -1,5 +1,8 @@
 body{
     background-image: url("img/wallpaper.jpg");
+    overflow: scroll;
+    width: 1920px;
+    height: 1080px;
 }
 
 .topic-img{
@@ -10,21 +13,56 @@ body{
 }
 
 .skills {
-    left: 50vw;
-    top: 30vh;
+    left: 800px;
+    top: 300px;
 }
 
 .foular {
-    left: 10vw;
-    top: 40vh;
+    left: 200px;
+    top: 400px;
 }
 
 .diplome {
-    left : 80vw;
-    top : 80vh;
+    left : 1600px;
+    top : 750px;
 }
 
 .cahier {
-    left : 10vw;
-    top : 5vh;
+    left : 200px;
+    top : 30px;
+}
+
+.immeuble{
+    left: 1600px;
+    top : 30px;
+}
+
+.tasse{
+    left : 1100px;
+    top : 10px;
+}
+
+.reddit{
+    left : 800px;
+    top : 500px;
+}
+
+.mario{
+    left : 1100px;
+    top : 500px;
+}
+
+.volley {
+    left : 1350px;
+    top: 500px;
+}
+
+.famille {
+    left : 550px;
+    top: 300px;
+}
+
+.charlie {
+    left : 400px;
+    top: 700px;
 }
