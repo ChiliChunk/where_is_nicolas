@@ -43,12 +43,12 @@ body{
 }
 
 .reddit{
-    left : 800px;
+    left : 1000px;
     top : 500px;
 }
 
 .mario{
-    left : 1100px;
+    left : 1200px;
     top : 500px;
 }
 
@@ -65,4 +65,9 @@ body{
 .charlie {
     left : 400px;
     top: 700px;
+}
+
+.cv {
+    left : 750px;
+    top: 450px;
 }
